@@ -1,0 +1,36 @@
+.paragraph-section{
+    background-color: orange;
+    }
+    .red-text {
+    color: red;
+    }
+    .green-text {
+    color: green;
+    }
+    .highlight-text {
+    background-color: yellow;
+    }
+    h1{
+    color: red;
+    }
+    h2{
+    color: blueviolet;
+    }
+    h3{
+    color: aqua;
+    }
+    h4{
+    color: navy;
+    }
+    h5{
+    color: brown;
+    }
+    h6{
+    color: green;
+    }
+    .image-section{
+    background-color: gray;
+    }
+    img{
+    height: 250px;
+    }
